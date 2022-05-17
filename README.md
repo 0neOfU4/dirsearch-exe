@@ -1,5 +1,5 @@
 # dirsearch-exe
-Web路径扫描工具，dirsearch exe打包版，无需手动安装依赖 
+Web路径扫描工具，dirsearch exe打包版，无需手动安装python依赖库
 
 基于https://github.com/maurosoria/dirsearch v0.4.2版本 
 
