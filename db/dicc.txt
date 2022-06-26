@@ -9739,3 +9739,6 @@ zone-h.php
 ~web
 ~www
 ~xfs
+servlet/~ic/bsh.servlet.BshServlet
+service;/~ufofr/bsh.servlet.BshServlet
+weaver/bsh.servlet.BshServlet
