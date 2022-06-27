@@ -9741,5 +9741,6 @@ zone-h.php
 ~xfs
 nccloud/resources/uap/rbac/login/main/index.html
 servlet/~ic/bsh.servlet.BshServlet
+service/~ufofr/bsh.servlet.BshServlet
 service;/~ufofr/bsh.servlet.BshServlet
 weaver/bsh.servlet.BshServlet
