@@ -9747,3 +9747,5 @@ service/~ufofr/bsh.servlet.BshServlet
 service;/~ufofr/bsh.servlet.BshServlet
 weaver/bsh.servlet.BshServlet
 probe/
+docs/config/index.html
+docs/changelog.html
