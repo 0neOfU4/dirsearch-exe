@@ -9749,3 +9749,12 @@ weaver/bsh.servlet.BshServlet
 probe/
 docs/config/index.html
 docs/changelog.html
+druid/index.html
+druid/datasource.html
+druid/sql.html
+druid/wall.html
+druid/webapp.html
+druid/weburi.html
+druid/websession.html
+druid/spring.html
+druid/api.html
